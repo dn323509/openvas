@@ -4,7 +4,7 @@ Usage:
 
 Ubuntu:
 
-wget https://github.com/dn323509/Openval/gvm_20.sh
+wget https://github.com/dn323509/Openvas/gvm_20.sh
 
 sudo chmod +x gvm_20.sh
 
