@@ -4,6 +4,6 @@ Usage:
 
 Ubuntu:
 
-wget https://github.com/dn323509/Openval/install_gvm.sh
-chmod +x install_gvm.sh
-sudo ./install_gvm.sh 
+wget https://github.com/dn323509/Openval/gvm_20.sh
+sudo chmod +x gvm_20.sh
+sudo ./gvm_20.sh 
