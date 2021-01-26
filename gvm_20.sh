@@ -170,3 +170,4 @@ gvmd --create-user=admin --password=admin
 
 # Configure and Update Feeds (GVM)
 gvmd --get-users --verbose
+admin fb019c52-75ec-4cb6-b176-5a55a9b360bf
